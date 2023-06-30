@@ -3,7 +3,7 @@
 `vimgrep` を使ってQuickfix Listに入れる
 
 
-##  autocmd を検索してみる
+## autocmd を検索してみる
 
 ```vimscript
 :vim /autocmd/ dotfiles/**
