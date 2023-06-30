@@ -1,2 +1,3 @@
 syntax on
-colorscheme habamax
+colorscheme zellner
+set signcolumn=yes
